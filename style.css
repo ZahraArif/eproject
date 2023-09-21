@@ -1,0 +1,130 @@
+.ani img{
+    height: 100vh;
+}
+.meshu{
+    background-color: white;
+    
+}
+.shinchan{
+    font-size: 100px;
+   
+   color: black;
+    padding-left: 350px;
+}
+
+
+.nav-item a
+  
+   {
+    color: black;
+   font-weight: 650;
+    padding: 10px;
+    padding-left: px;
+    text-transform:uppercase;
+    font-size: 14px;
+    
+}
+.nav-item a:hover{
+    color:red;
+  
+}
+.gallery{
+    padding: 30px ;
+    
+}
+.card img
+{
+ width: 360px;
+ height: 350px;
+ 
+ }
+ .gallery img
+   {
+    width: 360px;
+    height: 350px;
+    padding: 15px;
+    border-radius: 8px;
+    }
+ 
+   .mahi h2{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        font-weight: bold;
+    }
+.mahi p{
+        text-align: center;
+    }
+   .shani{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+   }
+     .sonu img
+       {
+        width: 150px;
+        height: 200px;
+       
+        }  
+    
+#btn{
+    border-radius: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    
+
+}
+#btn:hover{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+.sanu{
+    display: flex;
+}
+.manu{
+    font-size: 50px;
+}
+.ashi{
+    display: flex;
+    padding: 50px;
+}
+.sahi img{
+   padding-left: 30px;
+   padding: 15px;
+}
+.mado p{
+    padding-top: 15px;
+}
+.sani{
+    background-color: black;
+}
+.zoha{
+    font-family: 'Libre Baskerville', serif; 
+font-family: 'Poppins', sans-serif;
+}
+.zebra img{
+    border-radius: 200px;
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+}
+.zoo{
+    text-transform: capitalize;
+    font-size: 30px;
+    color:black;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.madi{
+    font-weight: bold;
+}
+.ani img{
+opacity: 0.5;
+
+}
+.zebrh img{
+   
+    padding: 2px;
+    width: 250px;
+    height: 300px;
+}
